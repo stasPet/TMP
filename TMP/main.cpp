@@ -30,8 +30,6 @@ auto dotProduct(std::array< Ò, N > const & x,
 
 int main()
 {
-  auto a { &"1" };
-  auto b { &"1" };
 
   return 0;
 }
